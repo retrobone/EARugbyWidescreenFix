@@ -1,3 +1,5 @@
+// RUGBY  06 WIDESCREEN FIX
+
 #include "stdafx.h"
 #include <spdlog/spdlog.h>
 #include "injector/injector.hpp"
