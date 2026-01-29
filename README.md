@@ -3,7 +3,7 @@ Widescreen Fix For EA Rugby Series Games - Proper HUD Scaling and Aspect Ratio s
 <h4>To do - </h4>
 <ul>
   <li>Add resolution support</li>
-  <li>Align in-game UI acccoridng to aspect ratio - currenly it is centered</li>
+  <li>Align in-game UI elements acc. to aspect ratio - currenly it is centered. (PS2 version will be looked as a reference for the same).</li>
 </ul>
 <h2>EA Rugby 2006</h2>
 <h2>EA Rugby 2008</h2>
