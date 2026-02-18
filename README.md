@@ -5,7 +5,15 @@ Widescreen Fix For EA Rugby Series Games - Proper HUD Scaling and Aspect Ratio s
   <li>Align in-game UI elements acc. to aspect ratio - currenly it is centered. (PS2 version will be looked as a reference for the same).</li>
 </ul>
 
-## EA Rugby 2006
+## Rugby 2005
+ - Aspect Ratio and HUD fixed
+ - Added support for desktop resolutions in-game
+### [Download](https://github.com/retrobone/EARugbyWidescreenFix/releases/tag/rugby2005/latest)
+<img width="30%" alt="Rugby2005 2026-02-19 00-01-17_945" src="https://github.com/user-attachments/assets/c449054b-7d5f-455a-8dcc-763566108fc9" />
+<img width="30%"  alt="Rugby2005 2026-02-19 00-01-49_738" src="https://github.com/user-attachments/assets/392e1a5f-8bcd-4a48-a452-7c4a2bd2f4f5" />
+<img width="30%" alt="Rugby2005 2026-02-19 00-05-29_458" src="https://github.com/user-attachments/assets/e902fb9b-74e8-4b8d-8c6b-52be9d2b7259" />
+
+## Rugby 06
  - Aspect Ratio and HUD fixed
  - Added support for desktop resolutions in-game
 ### [Download](https://github.com/retrobone/EARugbyWidescreenFix/releases/tag/rugby06/latest)
@@ -13,7 +21,7 @@ Widescreen Fix For EA Rugby Series Games - Proper HUD Scaling and Aspect Ratio s
 <img width="30%" height="" alt="Rugby06 2026-02-17 23-24-28_071" src="https://github.com/user-attachments/assets/35b4196e-b9dd-47df-9e8b-0e5c1314ae43" />
 <img width="30%" height="" alt="Rugby06 2026-02-17 23-26-25_955" src="https://github.com/user-attachments/assets/6a35d5de-8e23-440a-850b-06a437119368" />
 
-## EA Rugby 2008
+## Rugby 08
  - Aspect Ratio and HUD fixed
 ### [Download](https://github.com/retrobone/EARugbyWidescreenFix/releases/tag/rugby08/latest)
 <img width="30%" height="" alt="rugbyws3" src="https://github.com/user-attachments/assets/71116471-fae6-4888-843e-b1772a4e0ee7" />
