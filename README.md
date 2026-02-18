@@ -8,6 +8,7 @@ Widescreen Fix For EA Rugby Series Games - Proper HUD Scaling and Aspect Ratio s
 ## Rugby 2005
  - Aspect Ratio and HUD fixed
  - Added support for desktop resolutions in-game
+ - Added support for higher audio sample rate
 ### [Download](https://github.com/retrobone/EARugbyWidescreenFix/releases/tag/rugby2005/latest)
 <img width="30%" alt="Rugby2005 2026-02-19 00-01-17_945" src="https://github.com/user-attachments/assets/c449054b-7d5f-455a-8dcc-763566108fc9" />
 <img width="30%"  alt="Rugby2005 2026-02-19 00-01-49_738" src="https://github.com/user-attachments/assets/392e1a5f-8bcd-4a48-a452-7c4a2bd2f4f5" />
