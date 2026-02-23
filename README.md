@@ -5,6 +5,8 @@ Widescreen Fix For EA Rugby Series Games - Proper HUD Scaling and Aspect Ratio s
   <li>Align in-game UI elements acc. to aspect ratio - currenly it is centered. (PS2 version will be looked as a reference for the same).</li>
 </ul>
 
+<img alt="GitHub Downloads (all assets, specific tag)" src="https://img.shields.io/github/downloads/retrobone/EARugbyWidescreenFix/total?style=for-the-badge&label=DOWNLOADS&labelColor=blue&color=white">
+
 ## Rugby 2005
  - Aspect Ratio and HUD fixed
  - Added support for desktop resolutions in-game
